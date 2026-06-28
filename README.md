@@ -109,11 +109,3 @@ Through this project, you will learn:
 
 ## Author
 
-**Sreevani Meddisetty**
-
-## License
-
-This project is created for educational and learning purposes.
-````
-
-This README is suitable for uploading to **GitHub** with your Python data analytics project.
